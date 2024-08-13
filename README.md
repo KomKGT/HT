@@ -22,7 +22,6 @@
 |R 510			| https://www.es.co.th/detail.asp?Prod=015019448	| 0805W8F5100T5E|
 |LM1117-3.3		| https://www.es.co.th/detail.asp?Prod=007801698 	| LM1117MPX-3.3/NOPB|
 | Ceramic 1.5 pF 		| https://www.es.co.th/detail.asp?Prod=032800781 	| 0402N1R5B500LT |
-
 |Ceramic 1.5 pF 		| https://www.es.co.th/detail.asp?Prod=032800781 	| 0402N1R5B500LT|
 |Ceramic 2.7 pF 		|https://www.es.co.th/detail.asp?Prod=008202719 	| CL10C2R7CB8NNNC|
 |Ceramic 2.2 uF 		| https://www.es.co.th/detail.asp?Prod=008202068 	| CL21B225KOFNFNE
